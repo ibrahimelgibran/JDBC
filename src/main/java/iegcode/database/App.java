@@ -1,4 +1,4 @@
-package iegcode-database;
+package iegcode.database;
 
 /**
  * Hello world!
